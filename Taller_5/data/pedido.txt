@@ -1,0 +1,12 @@
+FACTURA BURGER ID Factura:                               0
+Direccion:                       calle algo
+
+Cliente:                            Cliente
+Hamburguesa                          10000
+Papas                                 5000
+
+
+Valor Neto:                           15000
+Valor IVA:                             2850
+
+Valor Total:                          178500
